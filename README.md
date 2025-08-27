@@ -1,4 +1,4 @@
-Klepats/Klepats<!-- README for GitHub profile -->
+<!-- README for GitHub profile -->
 
 <table>
 <tr>
